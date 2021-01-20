@@ -1,0 +1,14 @@
+{
+  "_id": "page._cofirmation",
+  "_type": "page.confirmation",
+  "body": "We have sent you a confirmation email.\r\n\r\n",
+  "components": [
+    {
+      "_id": "page._cofirmation--content",
+      "_type": "content",
+      "html": "## What happens next?\r\n\r\nWe’ve sent your application to MOJ Forms.\r\n\r\nWe will contact you on due course.\r\n\r\nWhat did you think of this service? (takes 30 seconds)"
+    }
+  ],
+  "heading": "Enquiry Complete",
+  "url": "/cofirmation"
+}

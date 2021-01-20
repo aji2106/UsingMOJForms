@@ -1,0 +1,15 @@
+{
+  "_id": "page.start",
+  "_type": "page.start",
+  "heading": "Using MoJ Forms",
+  "lede": "Use this service to register interest for using MOJ Forms",
+  "steps": [
+    "page._whatsyourname",
+    "page._orgdetails",
+    "page.additionalinfo",
+    "page._checkanswers",
+    "page._cofirmation",
+    "page._additionalinfotrue--2"
+  ],
+  "url": "/"
+}

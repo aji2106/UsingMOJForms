@@ -1,0 +1,46 @@
+{
+  "_id": "page._orgdetails",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page._orgdetails--email.auto_name__1",
+      "_type": "email",
+      "label": "What is your email address?",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page._orgdetails--text.auto_name__2",
+      "_type": "text",
+      "label": "What is your job title?",
+      "name": "auto_name__2"
+    },
+    {
+      "_id": "page._orgdetails--radios.auto_name__3",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page._orgdetails--radios.auto_name__3--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page._orgdetails--radios.auto_name__3--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Do you work for MOJ?",
+      "name": "auto_name__3"
+    },
+    {
+      "_id": "page._orgdetails--text.auto_name__4",
+      "_type": "text",
+      "label": "What part of MOJ do you work for? ",
+      "name": "auto_name__4"
+    }
+  ],
+  "heading": "Org Details",
+  "url": "/orgdetails"
+}
