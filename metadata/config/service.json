@@ -2,6 +2,7 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
-  "name": "Using MoJ Forms Test",
-  "phase": "beta"
+  "name": "Using MOJ Forms",
+  "phase": "beta",
+  "phaseText": "This is a new form – your input or feedback will help us."
 }

@@ -1,0 +1,24 @@
+{
+  "_id": "page.upload",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.upload--upload.auto_name__9",
+      "_type": "upload",
+      "label": "Upload any other documents or information about your service.",
+      "name": "auto_name__9",
+      "validation": {
+        "required": true
+      }
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__5",
+    "operator": "is",
+    "value": "auto_value__3"
+  },
+  "steps": [
+    "page.upload-check"
+  ],
+  "url": "upload"
+}

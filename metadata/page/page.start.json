@@ -1,15 +1,22 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "heading": "Using MoJ Forms",
-  "lede": "Use this service to register interest for using MOJ Forms",
+  "actionType": "continue",
+  "heading": "Using MOJ Forms",
+  "lede": "Use this form to register your interest in using MOJ Forms",
   "steps": [
     "page._whatsyourname",
     "page._orgdetails",
+    "page._mojemployeecheck",
+    "page.mojemployeegroup",
     "page.additionalinfo",
-    "page._checkanswers",
-    "page._cofirmation",
-    "page._additionalinfotrue--2"
+    "page.serviceusecases",
+    "page.replacementform",
+    "page.transactionannualcount",
+    "page.deadlines",
+    "page.upload",
+    "page.checkyouranswers",
+    "page._enquiryconfirmation"
   ],
   "url": "/"
 }

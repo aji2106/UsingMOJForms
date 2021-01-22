@@ -7,6 +7,9 @@
       "_type": "radios",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.additionalinfo--radios.auto_name__5--radio.auto_value__3",
           "_type": "radio",
           "label": "Yes",
@@ -14,6 +17,9 @@
           "value": "auto_value__3"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.additionalinfo--radios.auto_name__5--radio.auto_value__4",
           "_type": "radio",
           "label": "No",
@@ -25,5 +31,8 @@
     }
   ],
   "enableSteps": true,
+  "sectionHeading": "Additional info",
+  "showSteps": false,
+  "steps": [],
   "url": "additionalinfo"
 }
