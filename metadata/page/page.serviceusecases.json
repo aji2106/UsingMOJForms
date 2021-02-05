@@ -1,22 +1,22 @@
 {
   "_id": "page.serviceusecases",
   "_type": "page.singlequestion",
-  "actionType": "continue",
   "components": [
     {
-      "_id": "page.serviceusecases--textarea.auto_name__11",
+      "_id": "page.serviceusecases--textarea.auto_name__7",
       "_type": "textarea",
-      "label": "Please tell us more about the use case (s) for your service(s) ?",
-      "name": "auto_name__11",
+      "label": "Please tell us more about the use case (s) for your service(s)?",
+      "name": "auto_name__7",
+      "show": {
+        "identifier": "auto_name__6",
+        "operator": "is",
+        "value": "auto_value__3"
+      },
       "validation": {
         "required": false
       }
     }
   ],
-  "show": {
-    "identifier": "auto_name__5",
-    "operator": "is",
-    "value": "auto_value__3"
-  },
+  "sectionHeading": "About your service",
   "url": "serviceusecases"
 }

@@ -1,0 +1,7 @@
+{
+  "_id": "page.confirmation",
+  "_type": "page.confirmation",
+  "body": "## What happens next?\r\n\r\nThe MOJ Forms team has received your enquiry and will be in touch in due course.\r\n\r\nIn the meantime, if you have any questions please email <moj-forms@digital.justice.gov.uk>",
+  "heading": "Thank you for your interest in using MOJ Forms",
+  "url": "confirmation"
+}

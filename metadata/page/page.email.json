@@ -1,0 +1,15 @@
+{
+  "_id": "page.email",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.email--email.auto_name__3",
+      "_type": "email",
+      "hint": "We will use your email to contact you and discuss more how we can help",
+      "label": "What is your email?",
+      "name": "auto_name__3"
+    }
+  ],
+  "sectionHeading": "Email address",
+  "url": "email"
+}

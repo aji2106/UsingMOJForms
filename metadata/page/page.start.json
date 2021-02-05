@@ -5,18 +5,20 @@
   "heading": "Using MOJ Forms",
   "lede": "Use this form to register your interest in using MOJ Forms",
   "steps": [
-    "page._whatsyourname",
-    "page._orgdetails",
-    "page._mojemployeecheck",
-    "page.mojemployeegroup",
-    "page.additionalinfo",
+    "page.whatisyourname",
+    "page.jobtitle",
+    "page.email",
+    "page.mojemployeecheck",
+    "page.mojemployeechecktrueorg",
+    "page.shareaddsinfo",
     "page.serviceusecases",
     "page.replacementform",
     "page.transactionannualcount",
     "page.deadlines",
-    "page.upload",
+    "page.uploaddocumentsinfo",
     "page.checkyouranswers",
-    "page._enquiryconfirmation"
+    "page.confirmation",
+    "page.hh"
   ],
   "url": "/"
 }

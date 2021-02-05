@@ -3,17 +3,18 @@
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.transactionannualcount--number.auto_name__7",
+      "_id": "page.transactionannualcount--number.auto_name__9",
       "_type": "number",
       "label": "How many transactions does the service receive or is projected to receive per year? ",
-      "name": "auto_name__7",
+      "name": "auto_name__9",
       "validation": {
         "required": false
       }
     }
   ],
+  "sectionHeading": "About your service",
   "show": {
-    "identifier": "auto_name__5",
+    "identifier": "auto_name__6",
     "operator": "is",
     "value": "auto_value__3"
   },

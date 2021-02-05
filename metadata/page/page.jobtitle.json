@@ -1,0 +1,14 @@
+{
+  "_id": "page.jobtitle",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.jobtitle--text.auto_name__2",
+      "_type": "text",
+      "label": "What is your job title?",
+      "name": "auto_name__2"
+    }
+  ],
+  "sectionHeading": "Job title",
+  "url": "jobtitle"
+}

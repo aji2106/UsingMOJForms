@@ -3,32 +3,32 @@
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.replacementform--radios.auto_name__6",
+      "_id": "page.replacementform--radios.auto_name__8",
       "_type": "radios",
       "items": [
         {
-          "_id": "page.replacementform--radios.auto_name__6--radio.auto_value__5",
+          "_id": "page.replacementform--radios.auto_name__8--radio.auto_value__5",
           "_type": "radio",
           "label": "Yes",
           "value": "auto_value__5"
         },
         {
-          "_id": "page.replacementform--radios.auto_name__6--radio.auto_value__6",
+          "_id": "page.replacementform--radios.auto_name__8--radio.auto_value__6",
           "_type": "radio",
           "label": "No",
           "value": "auto_value__6"
         }
       ],
       "legend": "Is this a replacement for an existing form? ",
-      "name": "auto_name__6",
+      "name": "auto_name__8",
       "validation": {
         "required": false
       }
     }
   ],
-  "enableSteps": true,
+  "sectionHeading": "About your service",
   "show": {
-    "identifier": "auto_name__5",
+    "identifier": "auto_name__6",
     "operator": "is",
     "value": "auto_value__3"
   },
