@@ -6,6 +6,8 @@
       "_id": "page.uploaddocumentsinfo--upload.auto_name__11",
       "_type": "upload",
       "label": "Upload any other documents or information about your service.",
+      "maxFiles": 5,
+      "minFiles": 1,
       "name": "auto_name__11",
       "show": {
         "identifier": "auto_name__6",
@@ -18,6 +20,9 @@
     }
   ],
   "sectionHeading": "About your service",
-  "steps": [],
+  "steps": [
+    "page.uploaddocumentsinfo-check",
+    "page.uploaddocumentsinfo-summary"
+  ],
   "url": "uploaddocumentsinfo"
 }
